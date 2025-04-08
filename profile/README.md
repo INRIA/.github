@@ -9,6 +9,7 @@
 * [CGAL](https://www.inria.fr/en/open-source-software-library-cgal-computational-geometry), a Computational Geometry Algorithms Library
 * [Software Heritage](https://www.inria.fr/en/software-heritage-global-software-archive), the global software archive
 * [CompCert](https://www.inria.fr/en/compcert-software-program-receives-prestigious-award), a formally verified compiler for the C programming language
+* [ReservoirPy](https://github.com/reservoirpy/reservoirpy)
 * and [many, many more…](https://www.inria.fr/en/research-and-innovation)
 
 ## Working at inria
