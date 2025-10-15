@@ -4,7 +4,7 @@
 
 ## Some projects from Inria
 
-* The [Coq](https://coq.inria.fr/), proof assistant
+* The [Rocq](https://coq.inria.fr/) prover
 * [Scikit-learn](https://scikit-learn.fondation-inria.fr/home/), a central tool in AI and data-science
 * [CGAL](https://www.inria.fr/en/open-source-software-library-cgal-computational-geometry), a Computational Geometry Algorithms Library
 * [Software Heritage](https://www.inria.fr/en/software-heritage-global-software-archive), the global software archive
