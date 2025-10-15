@@ -23,13 +23,13 @@ Throughout the year, Inria welcomes new employees to its teams and departments, 
 
 ## Research centers
 
-- [Inria centre at the University of Bordeaux](https://www.inria.fr/en/inria-centre-university-bordeaux)
-- [Inria centre at Grenoble Alpes University](https://www.inria.fr/en/inria-centre-university-grenoble-alpes)
-- [Inria centre at the University of Lille](https://www.inria.fr/en/inria-centre-university-lille)
+- [Inria Centre at the University of Bordeaux](https://www.inria.fr/en/inria-centre-university-bordeaux)
+- [Inria Centre at Grenoble Alpes University](https://www.inria.fr/en/inria-centre-university-grenoble-alpes)
+- [Inria Centre at the University of Lille](https://www.inria.fr/en/inria-centre-university-lille)
 - [Inria Lyon Centre](https://www.inria.fr/en/inria-lyon-centre)
-- [Inria centre at Université de Lorraine](https://www.inria.fr/en/inria-centre-universite-lorraine)
+- [Inria Centre at Université de Lorraine](https://www.inria.fr/en/inria-centre-universite-lorraine)
 - [Inria Paris Centre](https://www.inria.fr/en/inria-paris-centre)
-- [Inria centre at Rennes University](https://www.inria.fr/en/inria-centre-rennes-university)
+- [Inria Centre at Rennes University](https://www.inria.fr/en/inria-centre-rennes-university)
 - [Inria Centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur)
 - [Inria Saclay Centre](https://www.inria.fr/en/inria-saclay-centre)
 - [Inria Chile](https://www.inria.fr/en/centre-inria-chile)
